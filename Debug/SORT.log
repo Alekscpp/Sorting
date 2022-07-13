@@ -1,4 +1,4 @@
 ﻿  Source.cpp
-E:\My projects\SORT\SORT\Source.cpp(97,7): warning C4101: as: неиспользованная локальная переменная
-E:\My projects\SORT\SORT\Source.cpp(118,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\My projects\SORT\SORT\Source.cpp(80,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\My projects\SORT\SORT\Source.cpp(172,7): warning C4101: as: неиспользованная локальная переменная
   SORT.vcxproj -> E:\My projects\SORT\Debug\SORT.exe
